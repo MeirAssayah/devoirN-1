@@ -12,6 +12,7 @@ public class Secteur
         this.idSecteur = idSecteur;
         this.nomSecteur = nomSecteur;
         this.rayons = new ArrayList<>();
+
     }
 
     public int getIdSecteur() {
