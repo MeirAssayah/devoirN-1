@@ -19,6 +19,7 @@ public class Employe
         this.nomEmploye = nomEmploye;
     }
 
+
     public int getIdEmploye() {
         return idEmploye;
     }

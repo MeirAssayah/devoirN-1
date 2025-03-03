@@ -50,6 +50,7 @@ public class Rayon
        for (Employe employe: employes){
            totalHeureRayon=totalHeureRayon+ employe.getNbHeures();
            return totalHeureRayon;
+
        }
     }
 }
